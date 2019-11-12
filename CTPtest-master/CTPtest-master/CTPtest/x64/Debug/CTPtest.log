@@ -1,0 +1,10 @@
+﻿  CustomTradeSpi.cpp
+D:\CTPtest-master\CTPtest-master\src\CustomTradeSpi.cpp(66,10): warning C4476: "printf": 格式说明符中的类型字段字符“O”未知
+D:\CTPtest-master\CTPtest-master\src\CustomTradeSpi.cpp(66,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“TThostFtdcErrorIDType”
+D:\CTPtest-master\CTPtest-master\src\CustomTradeSpi.cpp(66,10): warning C4313: “printf”: 格式字符串中的“%s”与“TThostFtdcErrorIDType”类型的参数 1 冲突
+D:\CTPtest-master\CTPtest-master\src\CustomTradeSpi.cpp(66,94): warning C4474: printf: 格式字符串中传递的参数太多
+D:\CTPtest-master\CTPtest-master\src\CustomTradeSpi.cpp(66,94): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+D:\CTPtest-master\CTPtest-master\src\CustomTradeSpi.cpp(164,45): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\CTPtest-master\CTPtest-master\src\CustomTradeSpi.cpp(184,46): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+  CTPtest.vcxproj -> D:\CTPtest-master\CTPtest-master\x64\Debug\CTPtest.exe
